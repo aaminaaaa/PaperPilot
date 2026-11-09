@@ -1,7 +1,7 @@
 # PaperPilot
 
 <div align="center">
-  <img src="assets/previls -la assets/ew.png" width="100%" />
+  <img src="assets/preview.png" width="100%" />
 </div>
 
 **Ask your papers anything. Get answers you can verify.**
