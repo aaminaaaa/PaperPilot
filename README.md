@@ -1,7 +1,7 @@
 # PaperPilot
 
 <div align="center">
-  <img src="assets/preview.png" width="100%" />
+  <img src="assets/preview.spng" width="100%" />
 </div>
 
 **Ask your papers anything. Get answers you can verify.**
