@@ -1,5 +1,9 @@
 # PaperPilot
 
+<div align="center">
+  <img src="assets/preview.png" width="100%" />
+</div>
+
 **Ask your papers anything. Get answers you can verify.**
 
 PaperPilot is a full-stack RAG (Retrieval-Augmented Generation) app. Upload PDFs, ask questions in plain language, and get answers grounded in your documents, with citations pointing to the file and page they came from.
